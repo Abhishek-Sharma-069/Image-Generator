@@ -10,9 +10,9 @@ const port = process.env.PORT || 4000;
 const app = express();
 
 app.use(express.json());
-app.use(cors(
-    origin:'https://image-generator-mu-eight.vercel.app/'
-));
+app.use(cors({
+    origin: 'https://image-generator-mu-eight.vercel.app/'
+}));
 
 // Routes
 app.use('/api/user', userRouter);
