@@ -48,8 +48,8 @@ AI-powered web app to generate stunning images from text prompts. Users can sign
 
 ## 📸 Screenshots
 <p align="center">
-  <img src="client/public/sample1.png" alt="Sample 1" width="250" />
-  <img src="client/public/sample2.png" alt="Sample 2" width="250" />
+  <img src="client/public/sample1.png" alt="Sample 1" width="450" />
+  <img src="client/public/sample2.png" alt="Sample 2" width="450" />
 </p>
 
 ## 🛠️ Tech Stack
