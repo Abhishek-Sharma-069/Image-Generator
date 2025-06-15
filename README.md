@@ -48,8 +48,8 @@ AI-powered web app to generate stunning images from text prompts. Users can sign
 
 ## 📸 Screenshots
 <p align="center">
-  <img src="client/public/sample_img_1.png" alt="Sample 1" width="250" />
-  <img src="client/public/sample_img_2.png" alt="Sample 2" width="250" />
+  <img src="client/public/sample1.png" alt="Sample 1" width="250" />
+  <img src="client/public/sample2.png" alt="Sample 2" width="250" />
 </p>
 
 ## 🛠️ Tech Stack
@@ -143,7 +143,7 @@ A: Yes, set your `CLIPDROP_API_KEY` in the environment variables.
 A: Yes, payments are handled securely via Razorpay.
 
 ## 👨‍🎨 Credits
-- Built by [Your Name]
+- Built by Abhishek Sharma
 - AI image generation powered by [ClipDrop](https://clipdrop.co/)
 
 ## 📄 License
